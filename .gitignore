@@ -1,0 +1,11 @@
+__pycache__
+*.pyc
+data/wikitext/*
+*.corpus
+*.t7
+out/
+corpus
+*.pt
+/.idea
+/.env
+!README.md
